@@ -1,0 +1,49 @@
+/* General */
+
+* {
+    background-color: #363636 ;
+    font-family: 'Cairo', sans-serif;
+}
+
+/* content */
+
+.content {
+    text-align: center;
+    padding: 10%;
+    color: #FFF;
+}
+
+.content p {
+    font-size: 16px;
+    color: #FFF;
+}
+
+.social-media p {
+    text-align: center;
+    font-size: 20px;
+    color: #FFF;
+}
+
+.social-media ul {
+    text-align: center;
+    padding-right: 56px;
+}
+
+.social-media li {
+    list-style: none;
+    display: inline;
+}
+
+.social-media a {
+    color: #A8A7A7;
+    text-decoration: none;
+    margin: 8px;
+    padding-left: 10px;
+}
+
+/* Hover */
+
+.a-hover:hover {
+    color: #45ADA8;
+    transform: 0.5s;
+}
